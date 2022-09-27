@@ -11,13 +11,13 @@
 .side-bar-header {
   height: 100px;
   background-color: #253141;
-  padding: 0 20px;
+  padding: 0 8px;
   display: flex;
   justify-content: space-between;
   align-items: center
 }
 
-.heading-name a{
+.header-name a {
   color: #fafafa;
   font-size: 16px;
   text-decoration: none;
